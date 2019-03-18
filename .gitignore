@@ -1,0 +1,6 @@
+/.vs/*
+/bin/*
+*.user
+*.exe
+/x64/*
+*.pdb
